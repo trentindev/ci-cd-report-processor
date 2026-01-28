@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd-report-processor",
+  "version": "1.0.0",
+  "description": "Date de création : 28/01/2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trentindev/ci-cd-report-processor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/trentindev/ci-cd-report-processor/issues"
+  },
+  "homepage": "https://github.com/trentindev/ci-cd-report-processor#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
